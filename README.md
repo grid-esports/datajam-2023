@@ -1,4 +1,4 @@
-# Grid Data Jam 2023
+# GRID DataJam 2023
 
 ## Overview
 

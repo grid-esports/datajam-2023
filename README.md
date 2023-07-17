@@ -16,13 +16,7 @@ The ID listed here is what's know as our GRID Series ID you can reference this w
 		- ID: 2579089
 	-   Semifinals
 		- ID: 2579048
-		- ID: 2578928
--   CSGO PGL Major Antwerp 2022
-	-   Final 
-		- ID: 663412
-	-   Semifinals
-		- ID: 661916
-		- ID: 661945
+		- ID: 2578928gi
 -   DotA 2 The International 2022
 	-   Final 
 		- ID: 2432453

@@ -11,12 +11,12 @@ We have also included a simple node script that will allow you to connect via a 
 
 The ID listed here is what's know as our GRID Series ID you can reference this within the attached data files or using the server we have bundled with this repository. 
 
--   CSGO PGL Major Stockholm 2021
+-   CCT Online Finals #1
 	-   Final 
-		- ID: 321088
+		- ID: 2579089
 	-   Semifinals
-		- ID: 321039
-		- ID: 321042
+		- ID: 2579048
+		- ID: 2578928
 -   CSGO PGL Major Antwerp 2022
 	-   Final 
 		- ID: 663412

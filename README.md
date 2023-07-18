@@ -15,7 +15,9 @@ Participation is free and you can win exclusive awards including a prize pool of
 ## Getting Started
 Inside the `data_files` folder you'll find two zip files once unzipped, you'll find a few different data files. These are the real events coming from our Series Events API, these are stored as JSONL files.
 
-We have also included a simple node script that will allow you to connect via a websocket and consume the events files. 
+We have also included a simple node script that will allow you to connect via a websocket and consume the events files.
+
+You can find additional event documentation and terminology [here](https://docs.google.com/document/d/1FPkcvrgtKSyPmnxSWM4xITzaxDMHikz3PHOQLxvoJao/edit?usp=sharing).
 
 ## Data Available
 Each ID listed here is what's known as our GRID Series ID, you can reference this within the attached data files or using the server we have bundled with this repository. 

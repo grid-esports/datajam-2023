@@ -1,0 +1,31 @@
+{
+  "name": "grid-data-jam",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "server.js",
+  "engines" : { 
+    "npm" : ">=8.0.0",
+    "node" : ">=16.18.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grid-esports/datajam-2023.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grid-esports/datajam-2023/issues"
+  },
+  "homepage": "https://github.com/grid-esports/datajam-2023#readme",
+  "dependencies": {
+    "glob": "^10.3.1",
+    "jsonl-db": "^1.0.1",
+    "node-jsonl": "^0.1.0",
+    "ws": "^8.13.0"
+  }
+}

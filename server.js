@@ -7,6 +7,10 @@ const wss = new WebSocketServer({
 });
 
 wss.on("connection", async function connection(ws, req) {
+  ws.on("ping", () => {
+    ws.pong();
+  });
+  
   console.log(req.url);
 
   const jsfiles = await glob(`**/${req.url}_events.jsonl`, {
